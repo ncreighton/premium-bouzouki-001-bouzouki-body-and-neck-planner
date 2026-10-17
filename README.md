@@ -1,0 +1,2 @@
+# premium-bouzouki-001-bouzouki-body-and-neck-planner
+Stop guessing the curve of the trichordo's neck or the exact taper of the tetrachordo's body — your next bouzouki build deserves a dedicated digital workshop.  This Notion template replaces scattered notes and generic woodworking spreadsheets with a structured workspace purpose-built for bouzouki luthiers. It solves the pain of tracking multiple bo
